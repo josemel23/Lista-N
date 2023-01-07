@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 ,mio1
+http://bit.ly/DEPOrt-m3u
+#EXTINF:-1 ,A3Cine
+http://bit.ly/depor-tem3u
+#EXTINF:-1 ,cine
+https://mutixx5hq1liv.akamaized.net/vtv4/index.m3u8
+#EXTINF:-1 ,mio4
+http://bit.ly/tvypelism3u
+#EXTINF:-1 ,BarcaTV
+https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1 ,Cine ARG
+http://tvpremiunhd.club/hd/tv.m3u8
+#EXTINF:-1 ,DTV SPORT ARG
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 ,BRAZIL
+http://srregio.net/nov5/regioflix.m3u
+#EXTINF:-1 ,DEPOR
+https://127.0.0.1/no_video.mp4.m3u8
